@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Manthan Rajendra Patil<br>You can contact me at patilmanthan2214@gmail.com<br>I'm based in India<br>I'm open to collaborating on Interesting Projects<br>I'm learning ASP.NET, Java and GenAI
+Hey, I'm Manthan Rajendra Patil<br>You can contact me at patilmanthan2214@gmail.com<br>I'm based in India<br>I'm open to collaborating on Interesting Projects<br>I'm learning Data Analytics with Gen-AI.
 
 
 ## 🌐 Socials:
